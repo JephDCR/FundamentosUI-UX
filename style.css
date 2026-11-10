@@ -1,0 +1,7 @@
+.tabela-produtos {
+    background-color: rgb(0, 106, 255);
+}
+
+th, tr{
+    border: solid 1px
+}
